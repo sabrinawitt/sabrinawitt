@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sabrina!
 - 👀 I am a part of the #100devs cohort 2022 by @leonnoel
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 📫 You can send me a DM on twitter - @brinawitt
 
 <!---
