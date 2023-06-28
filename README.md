@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sabrina!
 - 👀 I am a part of the #100devs cohort 2022 by @leonnoel
-- 🌱 I’m currently learning React & Next.js 
+- 🌱 I’m currently learning Next.js & Framer Motion
 - 📫 You can send me an e-mail at sabrinawitt@outlook.com or a DM on twitter - @brinawitt
 - 💻 www.witt-frank.com
 
