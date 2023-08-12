@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sabrina!
+- 👋 Hey, I’m Sabrina!
 - 👀 I am a part of the #100devs cohort 2022 by @leonnoel
 - 🌱 I’m currently learning Next.js
 - 📫 You can send me an e-mail at sabrinawitt@outlook.com or a DM on twitter - @brinawitt
