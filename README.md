@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Sabrina!
-- 👀 I am a part of the #100devs cohort 2022 by @leonnoel
-- 🌱 I’m currently learning Next.js
+- 👀 I am a #100devs 2022 alumni
+- 🌱 I’m diving deeper into Next.js
 - 📫 You can send me an e-mail at sabrinawitt@outlook.com or a DM on twitter - @brinawitt
 - 💻 www.witt-frank.com
 
