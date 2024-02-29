@@ -1,5 +1,4 @@
 - 👋 Hey, I’m Sabrina!
-- 👀 I participated in the #100devs cohort of 2022
 - 🌱 Currently I'm taking Harvards CS50 course
 - 📫 You can send me an e-mail at sabrinawitt@outlook.com or a DM on twitter - @brinawitt
 - 💻 www.witt-frank.com
