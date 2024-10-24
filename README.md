@@ -1,7 +1,3 @@
-- 👋 Hey, I’m Sabrina!
-- 🌱 Currently I'm taking Harvards CS50 course
-- 📫 You can send me an e-mail at sabrinawitt@outlook.com or a DM on twitter - @brinawitt
-- 💻 www.witt-frank.com
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sabrinawitt&theme=nightowl&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
